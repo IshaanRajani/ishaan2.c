@@ -1,18 +1,9 @@
 #include<stdio.h>
-
-/*int main(){
-
-int a , b;
-float ans ;
-printf("enter two numbers");
-scanf("%d %d" , &a , &b);
- ans = a/(float)b;
-printf("addition of %d and %d is %f" , a,b,ans);
-
-return 0;
-}
-*/
-
+/*Name:Ishaan Rajani
+  roll no:08
+  UIN:241P008
+  Exp 1
+WAP to get students PCM marks from the user and find the average and eligibility*/
 int main()
 {
 
@@ -31,3 +22,14 @@ int main()
 
     return 0;
 }
+
+/*output:
+        enter physics marks
+75
+enter chemistry marks
+80
+enter maths marks
+85
+your average of pcm is:80.000000
+  
+you are eligible for your further studies*/
